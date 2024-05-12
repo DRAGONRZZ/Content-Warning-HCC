@@ -10,4 +10,6 @@ You have successfully completed it by following the same steps. good games
 
 ![32](https://github.com/DRAGONRZZ/Content-Warning-HCC/assets/169618610/5d6fde2b-aec2-4f91-9e9c-b224c64c5087)
 
+https://github.com/DRAGONRZZ/Content-Warning-HCC/releases/tag/Content-Warning-HCC
 
+https://github.com/DRAGONRZZ/Content-Warning-HCC/releases/tag/Content-Warning
